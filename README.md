@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on everything I know.
 - 📫 How to reach me. Reach me at amomen@gmail.com, https://www.linkedin.com/in/ali-momen/
 - Please have a look at my website if you wish at https://amdbablog.blogspot.com/
-- I love commands! Hail to commands instead of visualization!!
+- I love commands! Hail to commands instead of visualization!! Visualization is slow and for amateur humans, but commands are faster and more customizable.
 - General note! If you want to learn from a repository anywhere on a Source Control Website, and do not want to change it, simply clone it instead of forking it, and if you fork, try to make it private if you can.
 
 <!---
