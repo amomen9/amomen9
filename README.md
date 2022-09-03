@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amomen9
-- 👀 I’m interested in anything which is interesting!!! No, seriously, databases' administration and their scripting languages including SQL Server T-SQL, PL/PGSQL, Linux Bash Scripts, C/C++, and Python for now.
+- 👀 I’m interested in anything which is interesting!!! No, seriously, databases' administration and their scripting languages including SQL Server T-SQL, PL/pgSQL, Linux Bash Scripts, C/C++, and Python for now.
 - 🌱 I’m currently learning SQL Server, PostgreSQL, MariaDB
 - 💞️ I’m looking to collaborate on everything I know.
 - 📫 How to reach me. Reach me at amomen@gmail.com, https://www.linkedin.com/in/ali-momen/
