@@ -5,7 +5,7 @@
 - 📫 How to reach me. Reach me at amomen@gmail.com, https://www.linkedin.com/in/ali-momen/
 - Please have a look at my website if you wish at https://amdbablog.blogspot.com/
 - I love commands! Hail to commands instead of visualization! I am committed to go for visualization when it wins in the time/energy tradeoff though, otherwise, it is slow and for amateurs (Not that I am not an amateur!), or people who do not care and are not so fund of commands like me. Commands and programming are faster, more customizable, more powerful in terms of more complex computations which make some projects pheasible, convenient, accurate, much less error-prone when well tested and thus more reliable. All of these are true when they are ready :D.
-- Although I cannot akways help it, I would love to be a minimalist.
+- Although I cannot always help it, I would love to be a minimalist.
 
 <!---
 amomen9/amomen9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
