@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on everything I know.
 - 📫 How to reach me. Reach me at amomen@gmail.com, https://www.linkedin.com/in/ali-momen/
 - Please have a look at my website if you wish at https://amdbablog.blogspot.com/
-- I love commands! Hail to commands instead of visualization! Though I am committed to going for visualization when it wins in the time/energy tradeoff, otherwise, it is slow for repeated tasks and in that is for amateurs (Not that I am not an amateur), or people who do not care or are not so fond of commands like I am. Commands and programming are faster, more customizable, and more powerful in terms of more complex computations which make some projects feasible, convenient, accurate, much less error-prone when well tested, and thus more reliable. All of these are true when they are ready :D.
+- I love commands! Though I am committed to going for visualization when it wins in the time/energy tradeoff, otherwise, it is slow for repeated tasks and in that is for amateurs (Not that I am not an amateur), or people who do not care or are not so fond of commands like I am. Commands and programming are faster, more customizable, and more powerful in terms of more complex computations which make some projects feasible, convenient, accurate, much less error-prone when well tested, and thus more reliable. All of these are true when they are ready :D.
 - Although I mostly cannot help it, I would love to be a minimalist.
 
 [Back to the main page](https://github.com/amomen9/)
