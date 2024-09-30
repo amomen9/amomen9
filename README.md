@@ -10,7 +10,7 @@
 =======
 - I love commands! However, I am committed to going for UI when it wins in the time/energy tradeoff. Otherwise, it is slow for repeated tasks. It is for people who do not care or are not so much fond of commands as I am. Some people also say that UI is for amateurs (Not that I am not an amateur). Commands and programming are faster, more customizable, and more powerful. More powerful in terms of more complex computations which make some projects feasible, convenient, accurate, much less error-prone when well tested, and thus more reliable. Eventually, UI is also a child of programming. All of these are true when they are ready :D.
 - Although I mostly cannot help it, I would love to be a minimalist.
->>>>>>> fdea09820a3f9cc74e589698e7905b8ca0375323
+>>>>>>> 
 
 [Back to the main page](https://github.com/amomen9/)
 
