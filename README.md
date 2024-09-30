@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything interesting!!! No, seriously, databases' administration and their scripting languages including SQL Server T-SQL, PL/pgSQL, Linux Bash Scripts, C/C++, and Python for now.
 - 🌱 I’m currently learning SQL Server, PostgreSQL, MariaDB
 - 💞️ I’m looking to collaborate on everything I know.
-- 📫 How to reach me. Reach me at 📧amomen@gmail.com, https://www.linkedin.com/in/ali-momen/, <a href="https://t.me/ali_en9" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/-white?logo=Telegram" height="29px" /> 👽@ali_en9<img alt="Telegram" src="https://img.shields.io/badge/-white?logo=Linux" height="29px" /></a>
+- 📫 How to reach me. Reach me at 📧amomen@gmail.com, https://www.linkedin.com/in/ali-momen/, <a href="https://t.me/ali_en9" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/-rgba(0,0,0,0)?logo=telegram&logoColor=blue&labelColor=white&style=flat-square" height="29px" /> 👽@ali_en9<img alt="Telegram" src="https://img.shields.io/badge/-white?logo=Linux" height="29px" /></a>
 - Please have a look at my website if you wish at https://amdbablog.blogspot.com/
 - I love commands! Though I am committed to going for UI
  when it wins in the time/energy trade-off, otherwise, it is slow for repeated tasks and in that is for
