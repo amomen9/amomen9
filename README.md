@@ -22,4 +22,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/ali-momen/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:amomen@gmail.com" target="_blank"><img alt="GMAIL" src="https://img.shields.io/badge/Gmail-%23EA5345.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://t.me/ali_en9" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" height="29px" /></a>
-<a href="https://t.me/ali_en9" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/?logo=Telegram&logoColor=white" height="29px" /></a>
+<a href="https://t.me/ali_en9" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/logo=Telegram&logoColor=white" height="29px" /></a>
