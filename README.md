@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @amomen9
-- 👀 I’m interested in anything interesting!!! No, seriously, databases' administration and their scripting languages including SQL Server T-SQL, PL/pgSQL, Linux Bash Scripts, C/C++, and Python for now.
+- 👀 I’m interested in anything interesting!!! No, seriously, databases' administration and their scripting languages including SQL Server
+ T-SQL, PL/pgSQL, C/C++, Python - Linux, Linux services, containers and their orchestration (Docker, Docker Swarm, Kubernetes), etc. for now.
 - 🌱 I’m currently learning SQL Server, PostgreSQL, MariaDB
 - 💞️ I’m looking to collaborate on everything I know.
 - 📫 How to reach me. Reach me at the contact details below
