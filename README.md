@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amomen9
-- 👀 I’m interested in anything interesting!!! No, seriously, databases' administration and their scripting languages, including SQL Server
- T-SQL, PL/pgSQL, C/C++, Python - Linux, Linux services, data analytics and mining, machine learning, containers and their orchestration (Docker,
- Docker Swarm, Kubernetes), etc, cloud computing, edge computing and sensors, for now.
+- 👀 I’m interested in anything interesting!!! No, seriously, formerly data management, database administration, and DBMS scripting languages, including SQL Server
+ T-SQL, and PL/pgSQL. Now, other areas of computer science, from Data Sciences and Analytics to Computer Vision, Machine Learning, and Artificial Intelligence. I am also interested in DevOps, IaC, Automation, Linux Services, Cloud Services,
+- 👨‍💻 I have worked with and am interested in C/C++, Python, Web Programming, Matlab, Java, and R.
 - 🌱 I’m currently learning Cloud Services
 - 💞️ I’m looking to collaborate on everything I know.
 - 📫 How to reach me. Reach me at the contact details below
