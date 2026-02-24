@@ -2,7 +2,7 @@
 
 **Name:** Ali Momen
 
-**Email:** [`amomen@gmail.com`](mailto:amomen@gmail.com)
+**Email:** <amomen@gmail.com>
 
 **Phone:** +31634397167
 
@@ -53,8 +53,8 @@ dynamically generated and conditionally formatted. The English
 translation of an example figure of the spreadsheet file is below
 (Employer data has been replaced by sample data):
 
-<img src="media/image1.png" style="width:6.5in;height:2.54028in"
-alt="image" />
+<img src="Portfolio_media/media/image1.png"
+style="width:6.5in;height:2.54028in" />
 
 The part of the article that is allowed by the employer to be published
 publicly is on the link below:
@@ -126,8 +126,8 @@ Contribution for the following: 100%
   reminder. This is a sample of the report sent on a schedule that got
   its data from the database:
 
-<img src="media/image2.png" style="width:6.5in;height:2.97778in"
-alt="image" />
+<img src="Portfolio_media/media/image2.png"
+style="width:6.5in;height:2.97778in" />
 
 **3. Automation & monitoring across multi‑platform DB environments —
 Fanap Soft (Jun 2021 – Nov 2021)**
@@ -222,7 +222,8 @@ nodes. This monitors which node is the primary node. It also serves as a
 health check for the nodes and the nodes that are not visible by the
 monitoring server will turn gray in the dashboard:
 
-<img src="media/image3.png" style="width:6.41667in;height:3.82708in"
+<img src="Portfolio_media/media/image3.png"
+style="width:6.41667in;height:3.82708in"
 alt="A screenshot of a computer AI-generated content may be incorrect." />
 
 **4. Network engineering and DB support — Keshavarzi Bank (Mar 2020 –
@@ -324,8 +325,8 @@ roles.
 
 Course Poster:
 
-<img src="media/image4.png" style="width:5.71875in;height:3.07138in"
-alt="image" />
+<img src="Portfolio_media/media/image4.png"
+style="width:5.71875in;height:3.07138in" />
 
 - Written document for PostgreSQL course on GitHub:\
   <https://github.com/amomen9/PostgreSQL/tree/main/PostgreSQL%20Course>
@@ -371,11 +372,9 @@ Examples:
   <https://github.com/amomen9/SQLServer-DBA-Tools/tree/main/Restore%20Latest%20Backups>
 
 - MSSQL job info\
-  <https://github.com/amomen9/SQLServer-DBA-Tools/tree/main/sp_JobsInfo>
-
-  \
-  <img src="media/image5.png" style="width:6.5in;height:2.19028in"
-  alt="image" />
+  <https://github.com/amomen9/SQLServer-DBA-Tools/tree/main/sp_JobsInfo>\
+  <img src="Portfolio_media/media/image5.png"
+  style="width:6.5in;height:2.19028in" />
 
 - PostgreSQL Patroni\
   <https://github.com/amomen9/PostgreSQL/tree/main/Patroni>

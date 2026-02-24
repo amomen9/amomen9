@@ -1,26 +1,27 @@
-> ![image](media/image2.png)<img src="media/image1.png" style="width:1.43333in" alt="image" />
-> **CONTACT**
+> ![](Ali_Momen_CV_4_a_media/media/image2.png)<img src="Ali_Momen_CV_4_a_media/media/image1.png"
+> style="width:1.43333in" />**\
+> CONTACT**
 >
-> <img src="media/image1.png" style="width:0.2in;height:0.19444in"
-> alt="image" />**Phone:+31633814381**
+> <img src="Ali_Momen_CV_4_a_media/media/image1.png"
+> style="width:0.2in;height:0.19444in" />**Phone:+31633814381**
 
-<img src="media/image1.png" style="width:0.2in;height:0.19444in"
-alt="image" />
+<img src="Ali_Momen_CV_4_a_media/media/image1.png"
+style="width:0.2in;height:0.19444in" />
 
 > **Address:**
 >
 > Rhijngeesterstraatweg 13a te Oegstgeest, 2342 AN, Leiden, Netherlands
 >
-> <img src="media/image3.png" style="width:0.21586in;height:0.21586in"
-> alt="image" />Email: [`amomen@gmail.com`](mailto:amomen@gmail.com)
+> <img src="Ali_Momen_CV_4_a_media/media/image3.png"
+> style="width:0.21586in;height:0.21586in" />Email: <amomen@gmail.com>
 >
 > <https://github.com/amomen9>
 >
-> ![image](media/image8.png)LINUX, WINDOWS, AND RDBMS DATABASE
-> DEVELOPMENT & ADMINISTRATION
+> ![](Ali_Momen_CV_4_a_media/media/image8.png)LINUX, WINDOWS, AND RDBMS
+> DATABASE DEVELOPMENT & ADMINISTRATION
 >
-> <img src="media/image9.png" style="width:0.17777in;height:1.34162in"
-> alt="image" />**PROFILE**
+> <img src="Ali_Momen_CV_4_a_media/media/image9.png"
+> style="width:0.17777in;height:1.34162in" />**PROFILE**
 >
 > A highly skilled Senior Database Administrator and Instructor with
 > over ten years of experience in SQL Server, PostgreSQL, MySQL, and
@@ -38,7 +39,8 @@ alt="image" />
 
 2006 - 2014
 
-> ![image](media/image10.png)**Bachelor of Applied Mathematics**
+> <img src="Ali_Momen_CV_4_a_media/media/image10.png" />**Bachelor of
+> Applied Mathematics**
 >
 > Sharif University of Technology (QS 2025 Ranking : 342)
 >
@@ -46,7 +48,7 @@ alt="image" />
 >
 > **PROJECTS**
 >
-> ![image](media/image10.png)
+> <img src="Ali_Momen_CV_4_a_media/media/image10.png" />
 
 January 2021
 
@@ -54,7 +56,7 @@ January 2021
 >
 > For: Keshavarzi Bank
 >
-> ![image](media/image10.png)
+> <img src="Ali_Momen_CV_4_a_media/media/image10.png" />
 
 February 2015
 
@@ -69,17 +71,18 @@ November 2023 - Present
 
 September 2024 - Present
 
-> ![image](media/image10.png)**Company/Institution:** Faratar az Danesh
+> <img src="Ali_Momen_CV_4_a_media/media/image10.png" />**Company/Institution:**
+> Faratar az Danesh
 >
 > **Job Position:** Linux & RDBMS Instructor
 >
-> ![image](media/image10.png)
+> <img src="Ali_Momen_CV_4_a_media/media/image10.png" />
 
 **Company/Institution:** Mofid Securities
 
 > **Job Position:** DBMS DBA (SQL Server, PostgreSQL, MySQL, MongoDB)
 >
-> ![image](media/image10.png)
+> <img src="Ali_Momen_CV_4_a_media/media/image10.png" />
 >
 > November 2021 – November 2023
 >
@@ -93,14 +96,15 @@ June 2021 - November 2021
 
 March 2020 - April 2021
 
-> ![image](media/image10.png)**Company/Institution:** Keshavarzi Bank
+> <img src="Ali_Momen_CV_4_a_media/media/image10.png" />**Company/Institution:**
+> Keshavarzi Bank
 >
 > **Job Position:** Network Engineer, Database Developer & Administrator
 
 May 2017 - March 2020
 
-> ![image](media/image10.png)**Company/Institution:** Iratec Kish Co. &
-> Savintf Co**.**
+> <img src="Ali_Momen_CV_4_a_media/media/image10.png" />**Company/Institution:**
+> Iratec Kish Co. & Savintf Co**.**
 >
 > **Job Position:** Web Developer and Database Administrator
 
@@ -130,58 +134,66 @@ Sep 2024 – present
 > **IELTS GENERAL: Overall: 8.0**, Listening: 8.0, Reading: 8.5,
 > Writing: 7.5, Speaking: 7.5
 >
-> German B2: Hören B1 Lesen B2 Schreiben B2 Sprechen B1
+> German B2: Hören B1 \| Lesen B2 \| Schreiben B2 \| Sprechen B1
 >
-> French A2: compréhension orale A1 lecture A2 écriture A1 expression
-> orale A1
+> French A2: compréhension orale A1 \| lecture A2 \| écriture A1 \|
+> expression orale A1
 >
 > **SKILLS**
 >
-> ![image](media/image12.png)![image](media/image12.png)![image](media/image12.png)![image](media/image12.png)![image](media/image12.png)![image](media/image12.png)Microsoft
+> <img src="Ali_Momen_CV_4_a_media/media/image12.png" /><img src="Ali_Momen_CV_4_a_media/media/image12.png" /><img src="Ali_Momen_CV_4_a_media/media/image12.png" /><img src="Ali_Momen_CV_4_a_media/media/image12.png" /><img src="Ali_Momen_CV_4_a_media/media/image12.png" /><img src="Ali_Momen_CV_4_a_media/media/image12.png" />Microsoft
 > SQL Server Administration PostgreSQL DB Cluster Administration
 > MySQL/MariaDB Family Administration Microsoft Windows Server and
 > Services Shell Scripting & Linux Administration DBMS Data Recovery,
 > Tuning, Security, Auditing, and Monitoring
 >
-> ![image](media/image12.png)Containerization, Orchestration, and
-> Software as a Service (SaaS), IaC
+> <img src="Ali_Momen_CV_4_a_media/media/image12.png" />Containerization,
+> Orchestration, and Software as a Service (SaaS), IaC
 >
-> ![image](media/image12.png)BI Development, Data Transform & Data
-> Pipelines, Data Warehousing, Data Mining
+> <img src="Ali_Momen_CV_4_a_media/media/image12.png" />BI Development,
+> Data Transform & Data Pipelines, Data Warehousing, Data Mining
 >
-> ![image](media/image12.png)![image](media/image12.png)CISCO Networks
+> <img src="Ali_Momen_CV_4_a_media/media/image12.png" /><img src="Ali_Momen_CV_4_a_media/media/image12.png" />CISCO
+> Networks
 >
-> ![image](media/image12.png)Version Control, CI/CD Programming:
+> <img src="Ali_Momen_CV_4_a_media/media/image12.png" />Version Control,
+> CI/CD Programming:
 >
 > C/C++, Python, MATLAB, Java SE, R
 >
 > **CERTIFICATES**
 >
-> ![image](media/image13.png) API and Web Service Introduction, Udemy
+> ![](Ali_Momen_CV_4_a_media/media/image13.png) API and Web Service
+> Introduction, Udemy
 >
-> ![image](media/image13.png) Administration of SQL Server, FAD Co.
+> ![](Ali_Momen_CV_4_a_media/media/image13.png)
+> <span dir="rtl"></span>Administration of SQL Server, FAD Co.
 >
-> ![image](media/image13.png) Master Microsoft PowerShell,
+> ![](Ali_Momen_CV_4_a_media/media/image13.png)
+> <span dir="rtl"></span>Master Microsoft PowerShell,
 >
 > Udemy
 >
-> ![image](media/image13.png) Microsoft Business Intelligence using
-> SSAS/SSIS, FAD Co.
+> ![](Ali_Momen_CV_4_a_media/media/image13.png) Microsoft Business
+> Intelligence using SSAS/SSIS, FAD Co.
 >
-> ![image](media/image13.png) SQL Server Design & Implementation, FAD
+> ![](Ali_Momen_CV_4_a_media/media/image13.png) SQL Server Design &
+> Implementation, FAD Co.
+>
+> ![](Ali_Momen_CV_4_a_media/media/image13.png) SQL Server Query, FAD
 > Co.
 >
-> ![image](media/image13.png) SQL Server Query, FAD Co.
+> ![](Ali_Momen_CV_4_a_media/media/image13.png) SQL Server Query Tuning
+> and Optimization, FAD Co.
 >
-> ![image](media/image13.png) SQL Server Query Tuning and Optimization,
-> FAD Co.
->
-> ![image](media/image13.png) T-SQL Programming, FAD Co.
+> ![](Ali_Momen_CV_4_a_media/media/image13.png) T-SQL Programming, FAD
+> Co.
 
-# <img src="media/image14.png" style="width:0.94783in" alt="image" />References
+# <img src="Ali_Momen_CV_4_a_media/media/image14.png"
+style="width:0.94783in" />References
 
 > **Referee 1: Parviz Aghasadeghi Position: CEO at Faratar az Danesh Co.
-> Email Address: [`aghasadeghi@fad.ir`](mailto:aghasadeghi@fad.ir)**
+> Email Address: <aghasadeghi@fad.ir>**
 
 Referee 2: Dr. Meghdad Velaei
 
@@ -196,4 +208,4 @@ Position: CTO at JobVision Co. & HRCando Co.
 Referee 4: Mohsen Sayadian
 
 Position: DBA Team lead at Mofid Securities Email Address:
-[`m.sayadian@emofid.com`](mailto:m.sayadian@emofid.com)
+<m.sayadian@emofid.com>
