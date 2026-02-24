@@ -1,5 +1,23 @@
 #### **PROFILE**
 
+![Profile Photo](Ali_Momen_CV_pdf_media/page01_img01.png)
+
+![Photo 2](Ali_Momen_CV_pdf_media/page01_img02.png)
+![Photo 3](Ali_Momen_CV_pdf_media/page01_img03.png)
+![Photo 4](Ali_Momen_CV_pdf_media/page01_img04.png)
+![Photo 5](Ali_Momen_CV_pdf_media/page01_img05.png)
+![Photo 6](Ali_Momen_CV_pdf_media/page01_img06.png)
+![Photo 7](Ali_Momen_CV_pdf_media/page01_img07.png)
+![Photo 8](Ali_Momen_CV_pdf_media/page01_img08.png)
+![Photo 9](Ali_Momen_CV_pdf_media/page01_img09.png)
+![Photo 10](Ali_Momen_CV_pdf_media/page01_img10.png)
+![Photo 11](Ali_Momen_CV_pdf_media/page01_img11.png)
+![Photo 12](Ali_Momen_CV_pdf_media/page01_img12.png)
+![Photo 13](Ali_Momen_CV_pdf_media/page01_img13.png)
+![Photo 14](Ali_Momen_CV_pdf_media/page02_img01.png)
+![Photo 15](Ali_Momen_CV_pdf_media/page02_img02.png)
+![Photo 16](Ali_Momen_CV_pdf_media/page02_img03.png)
+
 
 
 
@@ -19,9 +37,6 @@ development, with a strong commitment to lifelong learning and staying at the fo
 **Bachelor of Applied Mathematics**
 
 Sharif University of Technology (QS 2025 Ranking : 342)
-
-
-_**GPA:**_ 12.42 / 20
 
 
 **PROJECTS**
