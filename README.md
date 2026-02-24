@@ -1,16 +1,18 @@
 - 👋 Hi, I’m @amomen9
+- 
 - 👀 I’m interested in anything interesting!!! No, seriously, formerly data management, database administration, and DBMS scripting languages, including SQL Server
  T-SQL, and PL/pgSQL. Now, other areas of computer science, from Data Sciences and Analytics to Computer Vision, Machine Learning, and Artificial Intelligence. I am also interested in DevOps, IaC, Automation, Linux Services, Cloud Services and Computing, containers and their orchestration (Docker, Docker Swarm, Kubernetes), edge computing, sensor data processing, etc, for now.
+
 - 👨‍💻 For the coding languages, I have worked with and am interested in C/C++, Python, Web Programming, Matlab, Java, and R.
+
 - 🌱 I’m currently learning Data Science and Artificial Intelligence.
+
 - 💞️ I’m looking to collaborate on everything I know.
+
 - 📫 How to reach me. Reach me at the contact details below
-<<<<<<< Updated upstream
-- Please have a look at my Portfolio and CVs here until I relaunch my website. The files have been updated at 10/10/2025
-=======
-- Please have a look at my website if you wish at https://amdbablog.blogspot.com/
+
 - Please have a look at my Portfolio [![Adobe PDF](https://img.shields.io/badge/Adobe%20PDF-Portfolio-FF0000?logo=adobeacrobatreader&logoColor=white)](Portfolio.pdf) [Portfolio.pdf](Portfolio.pdf) and CVs [![Adobe PDF](https://img.shields.io/badge/Adobe%20PDF-CV-FF0000?logo=adobeacrobatreader&logoColor=white)](Ali%20Momen%20CV.pdf) [Ali Momen CV.pdf](Ali%20Momen%20CV.pdf) here until I relaunch my website. The files have been updated at 10/10/2025
->>>>>>> Stashed changes
+
 - I love commands! Though I am committed to going for UI
  when it wins in the time/energy trade-off, otherwise, it is slow for repeated tasks and in that is for
  amateurs (Not that I am not an amateur), or people who do not care or are not so fond of commands like
@@ -18,6 +20,7 @@
  computations which make some projects feasible, convenient, accurate, much less error-prone when well
  tested, and thus more reliable. All of these are true when the commands are ready though (How much time
  does it take?? :no_mouth: :D).
+
 - Although I cannot always help it, I would love to be a minimalist.
 
 
