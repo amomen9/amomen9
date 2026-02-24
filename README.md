@@ -25,9 +25,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 📫 Contact:
 
+<p align="center">
 <a href="https://www.linkedin.com/in/ali-momen/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:amomen@gmail.com" target="_blank"><img alt="GMAIL" src="https://img.shields.io/badge/Gmail-%23EA5345.svg?&style=for-the-badge&logo=Gmail" /></a>
 <a href="https://t.me/ali_en9" target="_blank"> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-rgba(0,0,0,0)?logo=Telegram" height="29px" /></a>
+</p>
 
 <!--- 
 <a href="https://www.linkedin.com/in/ali-momen/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -36,4 +38,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![](https://hit.yhype.me/github/profile?account_id=51079948)
+<p align="center"><img src="https://hit.yhype.me/github/profile?account_id=51079948" alt="Profile views" /></p>

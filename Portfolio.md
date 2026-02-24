@@ -53,8 +53,10 @@ dynamically generated and conditionally formatted. The English
 translation of an example figure of the spreadsheet file is below
 (Employer data has been replaced by sample data):
 
+<p align="center">
 <img src="Portfolio_media/media/image1.png"
 style="width:6.5in;height:2.54028in" />
+</p>
 
 The part of the article that is allowed by the employer to be published
 publicly is on the link below:
@@ -126,8 +128,10 @@ Contribution for the following: 100%
   reminder. This is a sample of the report sent on a schedule that got
   its data from the database:
 
+<p align="center">
 <img src="Portfolio_media/media/image2.png"
 style="width:6.5in;height:2.97778in" />
+</p>
 
 **3. Automation & monitoring across multi‑platform DB environments —
 Fanap Soft (Jun 2021 – Nov 2021)**
@@ -222,9 +226,11 @@ nodes. This monitors which node is the primary node. It also serves as a
 health check for the nodes and the nodes that are not visible by the
 monitoring server will turn gray in the dashboard:
 
+<p align="center">
 <img src="Portfolio_media/media/image3.png"
 style="width:6.41667in;height:3.82708in"
 alt="A screenshot of a computer AI-generated content may be incorrect." />
+</p>
 
 **4. Network engineering and DB support — Keshavarzi Bank (Mar 2020 –
 Apr 2021)**
@@ -325,8 +331,10 @@ roles.
 
 Course Poster:
 
+<p align="center">
 <img src="Portfolio_media/media/image4.png"
 style="width:5.71875in;height:3.07138in" />
+</p>
 
 - Written document for PostgreSQL course on GitHub:\
   <https://github.com/amomen9/PostgreSQL/tree/main/PostgreSQL%20Course>
@@ -373,8 +381,11 @@ Examples:
 
 - MSSQL job info\
   <https://github.com/amomen9/SQLServer-DBA-Tools/tree/main/sp_JobsInfo>\
+
+  <p align="center">
   <img src="Portfolio_media/media/image5.png"
   style="width:6.5in;height:2.19028in" />
+  </p>
 
 - PostgreSQL Patroni\
   <https://github.com/amomen9/PostgreSQL/tree/main/Patroni>

@@ -1,22 +1,22 @@
 #### **PROFILE**
 
-![Profile Photo](Ali_Momen_CV_pdf_media/page01_img01.png)
+<p align="center"><img alt="Profile Photo" src="Ali_Momen_CV_pdf_media/page01_img01.png" /></p>
 
-![Photo 2](Ali_Momen_CV_pdf_media/page01_img02.png)
-![Photo 3](Ali_Momen_CV_pdf_media/page01_img03.png)
-![Photo 4](Ali_Momen_CV_pdf_media/page01_img04.png)
-![Photo 5](Ali_Momen_CV_pdf_media/page01_img05.png)
-![Photo 6](Ali_Momen_CV_pdf_media/page01_img06.png)
-![Photo 7](Ali_Momen_CV_pdf_media/page01_img07.png)
-![Photo 8](Ali_Momen_CV_pdf_media/page01_img08.png)
-![Photo 9](Ali_Momen_CV_pdf_media/page01_img09.png)
-![Photo 10](Ali_Momen_CV_pdf_media/page01_img10.png)
-![Photo 11](Ali_Momen_CV_pdf_media/page01_img11.png)
-![Photo 12](Ali_Momen_CV_pdf_media/page01_img12.png)
-![Photo 13](Ali_Momen_CV_pdf_media/page01_img13.png)
-![Photo 14](Ali_Momen_CV_pdf_media/page02_img01.png)
-![Photo 15](Ali_Momen_CV_pdf_media/page02_img02.png)
-![Photo 16](Ali_Momen_CV_pdf_media/page02_img03.png)
+<p align="center"><img alt="Photo 2" src="Ali_Momen_CV_pdf_media/page01_img02.png" /></p>
+<p align="center"><img alt="Photo 3" src="Ali_Momen_CV_pdf_media/page01_img03.png" /></p>
+<p align="center"><img alt="Photo 4" src="Ali_Momen_CV_pdf_media/page01_img04.png" /></p>
+<p align="center"><img alt="Photo 5" src="Ali_Momen_CV_pdf_media/page01_img05.png" /></p>
+<p align="center"><img alt="Photo 6" src="Ali_Momen_CV_pdf_media/page01_img06.png" /></p>
+<p align="center"><img alt="Photo 7" src="Ali_Momen_CV_pdf_media/page01_img07.png" /></p>
+<p align="center"><img alt="Photo 8" src="Ali_Momen_CV_pdf_media/page01_img08.png" /></p>
+<p align="center"><img alt="Photo 9" src="Ali_Momen_CV_pdf_media/page01_img09.png" /></p>
+<p align="center"><img alt="Photo 10" src="Ali_Momen_CV_pdf_media/page01_img10.png" /></p>
+<p align="center"><img alt="Photo 11" src="Ali_Momen_CV_pdf_media/page01_img11.png" /></p>
+<p align="center"><img alt="Photo 12" src="Ali_Momen_CV_pdf_media/page01_img12.png" /></p>
+<p align="center"><img alt="Photo 13" src="Ali_Momen_CV_pdf_media/page01_img13.png" /></p>
+<p align="center"><img alt="Photo 14" src="Ali_Momen_CV_pdf_media/page02_img01.png" /></p>
+<p align="center"><img alt="Photo 15" src="Ali_Momen_CV_pdf_media/page02_img02.png" /></p>
+<p align="center"><img alt="Photo 16" src="Ali_Momen_CV_pdf_media/page02_img03.png" /></p>
 
 
 
