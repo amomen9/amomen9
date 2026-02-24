@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Data Science and Artificial Intelligence.
 - 💞️ I’m looking to collaborate on everything I know.
 - 📫 How to reach me. Reach me at the contact details below
-- Please have a look at my website if you wish at https://amdbablog.blogspot.com/
+- Please have a look at my Portfolio and CVs here until I relaunch my website. The files have been updated at 10/10/2025
 - I love commands! Though I am committed to going for UI
  when it wins in the time/energy trade-off, otherwise, it is slow for repeated tasks and in that is for
  amateurs (Not that I am not an amateur), or people who do not care or are not so fond of commands like
