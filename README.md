@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amomen9
 
 - 👀 I’m interested in anything interesting!!! No, seriously:
-  - Now, from Data Sciences and Analytics to Computer Vision, Machine Learning, and Artificial Intelligence. I am also interested in 
+  - Now, fields of Data Sciences and Analytics including Computer Vision, Machine Learning, Deep Learning, and Artificial Intelligence, etc.<br/>
   - My former experiences are (still interested) other areas of computing, data management, database administration, and DBMS scripting languages, including SQL Server
  T-SQL, and PL/pgSQL, DevOps, IaC, Automation, Linux Services, Cloud Services and Computing, containers and their orchestration (Docker, Docker Swarm, Kubernetes), edge computing, sensor data processing, etc. 
 
